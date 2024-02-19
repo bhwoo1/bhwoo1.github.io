@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a331f04.css",
-    "main.js": "/static/js/main.256843c6.js",
+    "main.css": "/static/css/main.b534c962.css",
+    "main.js": "/static/js/main.cb4ed16b.js",
     "static/js/787.09c7dba2.chunk.js": "/static/js/787.09c7dba2.chunk.js",
     "static/media/6.gif": "/static/media/6.7e6b536a1290599bb84b.gif",
     "static/media/ai_gwnu.jpg": "/static/media/ai_gwnu.47c64a30e85e46f4f9bf.jpg",
@@ -14,13 +14,14 @@
     "static/media/5.jpg": "/static/media/5.03809a5a9e95403110f0.jpg",
     "static/media/4.jpg": "/static/media/4.2ad31a97e394f63cd7d4.jpg",
     "static/media/users.png": "/static/media/users.e48eeb56f78751ba6389.png",
-    "static/media/ack2023.png": "/static/media/ack2023.12edc5b978a47518f2c8.png",
     "static/media/structure.png": "/static/media/structure.e1db63238674f0f520fe.png",
+    "static/media/ack2023.png": "/static/media/ack2023.12edc5b978a47518f2c8.png",
     "static/media/1.jpg": "/static/media/1.8a0982b092fd348f6bbe.jpg",
     "static/media/system.png": "/static/media/system.fc9283475186090aadad.png",
     "static/media/profile.png": "/static/media/profile.c12500431144ed3ac737.png",
     "static/media/translate.png": "/static/media/translate.bef3a8f08a808a276d24.png",
     "static/media/em1.jpg": "/static/media/em1.2a3fd08f08dbef09f159.jpg",
+    "static/media/Whereyouwant_logo_small.png": "/static/media/Whereyouwant_logo_small.370579d0b9e8dacb2a0d.png",
     "static/media/magicsketch result.jpg": "/static/media/magicsketch result.c6f7e580f4e35417022e.jpg",
     "static/media/letter.png": "/static/media/letter.d3196cf2e10297736b6f.png",
     "static/media/main.png": "/static/media/main.b6f5479c318364c78663.png",
@@ -29,15 +30,16 @@
     "static/media/microsoft.png": "/static/media/microsoft.08b1a76d9c2fef951201.png",
     "static/media/snailmail_intro.png": "/static/media/snailmail_intro.f3fb2fefd42d9bb46ca3.png",
     "static/media/magicsketch.jpg": "/static/media/magicsketch.92cf97d2fb92bc4e8298.jpg",
+    "static/media/Whereyouwant_logo.png": "/static/media/Whereyouwant_logo.d4d9ac742ca3fff438ba.png",
     "static/media/coursera.webp": "/static/media/coursera.8e952387e6eb2a5b447d.webp",
     "static/media/login.png": "/static/media/login.aeaab6c64e8286d4e773.png",
     "index.html": "/index.html",
-    "main.3a331f04.css.map": "/static/css/main.3a331f04.css.map",
-    "main.256843c6.js.map": "/static/js/main.256843c6.js.map",
+    "main.b534c962.css.map": "/static/css/main.b534c962.css.map",
+    "main.cb4ed16b.js.map": "/static/js/main.cb4ed16b.js.map",
     "787.09c7dba2.chunk.js.map": "/static/js/787.09c7dba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a331f04.css",
-    "static/js/main.256843c6.js"
+    "static/css/main.b534c962.css",
+    "static/js/main.cb4ed16b.js"
   ]
 }
